@@ -1,0 +1,43 @@
+{
+    "nombre": "Alberto Ratia Fernandez",
+    "datos_personales": {
+        "correo": "albertoratia77@gmail.com",
+        "telefono": "605 923 566",
+        "Linkedin": "www.linkedin.com/in/alberto-ratia-fernández"
+    },
+    "experiencia": [
+        {
+            "puesto": "Cabina de proyección",
+            "empresa": "Zarafilms",
+            "años": 26
+        },
+        {
+            "puesto": "Supervisor de cabina de proyeccion",
+            "empresa": "Zarafilms",
+            "años": 23
+        },
+        {
+            "puesto": "responsable centro de trabajo",
+            "empresa": "Zarafilms",
+            "años": "16"
+        }
+    ],
+    "educacion": [
+        {
+            "titulo": "Técnico especialista en Imagen y Sonido",
+            "institucion": "CPIFP Los Enlaces",
+            "año": 1996
+        }
+        {
+            "titulo":"Curso Operación de equipos de televisión",
+            "institucion": "CTA Aragon"
+            "horas": "200"
+        }
+    ],
+    
+    "habilidades": ["Gestion operativa", "resolucion de problemas", "atencion al cliente", "Multitarea", "Formación de equipos"],
+
+    "información": ["carnet de conducir", "vehiculo propio"],
+    
+    "idiomas": ["Español", "Inglés"]
+}
