@@ -6,3 +6,4 @@ hola
   <body>
 <img src="AlbertoRatia/Curso-AWS/R.jpg"
   </body>
+</html>
